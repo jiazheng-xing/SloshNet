@@ -1,4 +1,4 @@
-# AAAI:2023 Revisiting the Spatial and Temporal Modeling for Few-shot Action Recognition(SloshNet) [[arXiv]](https://arxiv.org/abs/2301.07944) 
+# AAAI2023: Revisiting the Spatial and Temporal Modeling for Few-shot Action Recognition(SloshNet) [[arXiv]](https://arxiv.org/abs/2301.07944) 
 
 
 
