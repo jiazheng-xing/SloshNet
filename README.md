@@ -34,7 +34,7 @@ We need to first extract videos into frames for fast reading. Please refer to [T
 We have successfully trained on [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [SthV2](https://developer.qualcomm.com/software/ai-datasets/something-something) ,[UCF101](http://crcv.ucf.edu/data/UCF101.php), [HMDB51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/). 
 
 ## Training
-We provided several examples to train STM with this repo:
+We provided several examples to train SloshNet with this repo:
 - To train on  Kinetics or SthV2 or Hmdb51 or UCF101 from Imagenet pretrained models, you can run:
 ```
 # train Kinetics
